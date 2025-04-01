@@ -8,4 +8,4 @@ Post-processing techniques, including morphological processing and least-squares
 ellipse fitting, were applied to obtain the fetal head circumference. Due to computational
 constraints, the model was trained for only 20 epochs with a reduced batch size of 8.
 
-###  Our whole approach regarding the model  [PDF FORMAT ](ANSWER_MDEICAL_TASK.pdf) 
+###  Our whole approach regarding the model  [PDF FORMAT ](ANSWER_MEDICAL_TASK.pdf) 
